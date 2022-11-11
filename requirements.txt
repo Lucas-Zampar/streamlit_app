@@ -1,4 +1,3 @@
-name: APP
 channels:
   - conda-forge
 dependencies:
