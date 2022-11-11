@@ -1,0 +1,2 @@
+test_number,model_type,backbone_type,batch_size,learning_rate,num_epochs,train_shuffle,image_size,final_COCOMetric
+1.0,mmdet.faster_rcnn,resnet50_fpn_1x,1.0,0.0001,50.0,True,512.0,0.693267007475202
